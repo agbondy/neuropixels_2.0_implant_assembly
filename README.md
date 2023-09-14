@@ -1,4 +1,5 @@
 # neuropixels_2.0_implant_assembly
+
 CAD files for a chronic implant assembly for test-phase Neuropixels 2.0 probes in rodents. The design is closely based on the design for the 1.0 implant assembly described and validated in [Luo*, Bondy* et al](https://elifesciences.org/articles/59716) 
 with print files available at [this repo](https://github.com/Brody-Lab/chronic_neuropixels).
 
@@ -14,4 +15,5 @@ For best results, use the .form file instead of laying the parts out yourself us
 The .form file included in the repo prints 5x each part, using the 65um gap version of the internal holder.
 The .stl files are exports of the individual parts in the .ipt file.
 
-Todo: add surgical implant instructions (or links) as well as pictures, as well as assembly instructions.
+## Assembling the implant once the parts are printed
+See this excellent [assembly instruction manual](https://docs.google.com/document/d/1IJHo09xTRHtCSInflJ-By5AF2hARtQX3Hh1mwAKbEYk/edit?usp=sharing) written by Sarah Jo Venditto.
